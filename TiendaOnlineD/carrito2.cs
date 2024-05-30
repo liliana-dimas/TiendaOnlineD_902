@@ -1,0 +1,1 @@
+esto es un checkout al archivo para descarta los cambios en el working directory
