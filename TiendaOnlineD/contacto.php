@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<p>ejemplo</p>C:\laragon\www\TiendaOnlineD
+
     
 </body>
 </html>
