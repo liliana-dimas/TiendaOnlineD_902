@@ -1,3 +1,9 @@
 Posibles ideas para una nueva interfaz/ventana nueva
 
+
 *Ventanas modales superpuestas para darle interaccion
+
+*Ventana de pagos en PayPal
+*Login de usuario
+*Login de Administrador
+
