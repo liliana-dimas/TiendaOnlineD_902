@@ -1,3 +1,5 @@
 Posibles ideas para una nueva interfaz/ventana nueva
 
-*
+*Ventana de pagos en PayPal
+*Login de usuario
+*Login de Administrador
